@@ -22,7 +22,7 @@ export const DEPARTMENT_OPTIONS = [
 ]
 
 export const PAYMENT_INFO = {
-  accountName: 'Tessa Literary and Debating Society',
+  accountName: 'Temitope Soneye',
   accountNumber: '8118714790',
   bankName: 'Palmpay',
   amountNgn: 1500,
